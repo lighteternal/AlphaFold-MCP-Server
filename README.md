@@ -1,3 +1,4 @@
+![AlphaFold MCP Server Logo](alphafold-mcp-server-logo.png)
 # AlphaFold MCP Server
 
 A comprehensive Model Context Protocol (MCP) server that provides access to the AlphaFold Protein Structure Database through a rich set of tools and resources for protein structure prediction analysis.
